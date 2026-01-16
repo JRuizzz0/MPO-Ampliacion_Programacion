@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+  /*
+    Alumno - Jaime Ruiz
+    DAW - Ampliacion de Programacion
+    16/01/2026
+ */
+
 public class Main {
 
     private static final MyScanner sc = new MyScanner();
